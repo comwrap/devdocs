@@ -32,7 +32,7 @@ Synchronous route | Bulk route
 `POST /V1/carts/:quoteId/items` | `POST async/bulk/V1/carts/byQuoteId/items`
 
 {:.bs-callout .bs-callout-info}
-GET and DELETE requests are not supported.
+GET requests are not supported.
 
 ### Payloads
 
